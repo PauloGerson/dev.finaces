@@ -16,6 +16,7 @@ body{
     width: min(90vw,800px);
 
     margin: auto;
+    overflow: hidden;
 }
 
 /* Title =============*/
