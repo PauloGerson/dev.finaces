@@ -11,8 +11,12 @@
 body{
     background:red;
     font-family: 'Poppins', sans-serif;
+<<<<<<< Updated upstream
      overflow: hidden;
 }
+=======
+}   
+>>>>>>> Stashed changes
 .container{
     width: min(90vw,800px);
 
