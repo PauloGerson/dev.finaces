@@ -9,19 +9,13 @@
 }
 
 body{
-    background:red;
+    background:#f0f2f5;
     font-family: 'Poppins', sans-serif;
-<<<<<<< Updated upstream
-     overflow: hidden;
 }
-=======
-}   
->>>>>>> Stashed changes
 .container{
     width: min(90vw,800px);
 
     margin: auto;
-   
 }
 
 /* Title =============*/
