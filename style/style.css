@@ -135,3 +135,9 @@ footer{
     padding: 4rem 0 2rem;
     color: var(--dark-blue);
 }
+
+@media (max-width: 445px){
+    container {
+        width: 100%;
+    }
+}
