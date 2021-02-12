@@ -11,12 +11,13 @@
 body{
     background:#f0f2f5;
     font-family: 'Poppins', sans-serif;
+     overflow: hidden;
 }
 .container{
     width: min(90vw,800px);
 
     margin: auto;
-    overflow: hidden;
+   
 }
 
 /* Title =============*/
